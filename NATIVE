@@ -1,0 +1,9 @@
+    <html> 
+         <head>
+            <h1>MY NATIVE PLACE</h1>
+        </head>
+        <body>
+            <h2>VADLAPUDI@VIZAG</h2>
+            <img width = "50%" src="native.jpeg">
+        </body>
+</html>
